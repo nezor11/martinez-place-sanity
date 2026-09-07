@@ -10,7 +10,7 @@ export const contactDetailType = defineType({
     defineField({
       title: 'Title',
       name: 'title',
-      type: 'string',
+      type: 'localeString',
       validation: (Rule) => Rule.required(),
     }),
     defineField({
@@ -26,7 +26,13 @@ export const contactDetailType = defineType({
     defineField({
       title: 'Address',
       name: 'address',
-      type: 'text',
+      type: 'localeText',
     }),
   ],
+  preview: {
+    select: {
+      title: 'title.en',
+      subtitle: 'email',
+    },
+  },
 })

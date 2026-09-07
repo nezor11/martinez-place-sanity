@@ -15,7 +15,7 @@ export default defineType({
     defineField({
       name: 'titleSection',
       title: 'Title Section',
-      type: 'string',
+      type: 'localeString',
     }),
     defineField({
       name: 'sliderDetails',
@@ -25,4 +25,9 @@ export default defineType({
     }),
   ],
   icon: FaStickyNote,
+  preview: {
+    select: {
+      title: 'titleSection.en',
+    },
+  },
 })

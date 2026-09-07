@@ -9,7 +9,7 @@ export default defineType({
     defineField({
       name: 'company',
       title: 'Company',
-      type: 'string',
+      type: 'localeString',
     }),
     defineField({
       name: 'infoUrl',
@@ -31,19 +31,19 @@ export default defineType({
     defineField({
       name: 'jobTitle',
       title: 'Job Title',
-      type: 'string',
+      type: 'localeString',
     }),
     defineField({
       name: 'jobDesc',
       title: 'Job Desc',
-      type: 'blockContent',
+      type: 'localeBlockContent',
     }),
   ],
   icon,
   preview: {
     select: {
-      title: 'company',
-      subtitle: 'jobTitle',
+      title: 'company.en',
+      subtitle: 'jobTitle.en',
     },
     prepare({title, subtitle}) {
       return {
