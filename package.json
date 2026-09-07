@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "martinez-place-sanity",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
@@ -26,7 +26,7 @@
     "react-is": "^18.2.0",
     "sanity": "^3.39.0",
     "sanity-plugin-media": "^2.2.5",
-    "styled-components": "^6.0.7"
+    "styled-components": "^6.1.0"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^3.0.1",
