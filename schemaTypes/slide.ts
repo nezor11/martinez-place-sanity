@@ -10,7 +10,7 @@ export default defineType({
     defineField({
       name: 'name',
       title: 'Slide Name',
-      type: 'string',
+      type: 'localeString',
       validation: (Rule) => Rule.required(),
     }),
     defineField({
@@ -60,7 +60,7 @@ export default defineType({
     defineField({
       name: 'slideTitle',
       title: 'Slide Title',
-      type: 'string',
+      type: 'localeString',
       validation: (Rule) => Rule.required(),
     }),
     defineField({
@@ -70,16 +70,23 @@ export default defineType({
       options: {
         hotspot: true,
       },
+      fields: [
+        {
+          name: 'alt',
+          type: 'localeString',
+          title: 'Alternative text',
+        },
+      ],
     }),
     defineField({
       name: 'slideSummary',
       title: 'Slide Summary',
-      type: 'text',
+      type: 'localeText',
     }),
     defineField({
       name: 'slideDesc',
       title: 'Slide Desc',
-      type: 'blockContent',
+      type: 'localeBlockContent',
     }),
     defineField({
       name: 'workDone',
@@ -142,7 +149,7 @@ export default defineType({
           fields: [
             {
               name: 'alt',
-              type: 'string',
+              type: 'localeString',
               title: 'Alternative text',
             },
           ],
@@ -155,7 +162,9 @@ export default defineType({
   ],
   preview: {
     select: {
-      title: 'name',
+      title: 'name.en',
+      subtitle: 'slideTitle.en',
+      media: 'slideImage',
     },
   },
 })

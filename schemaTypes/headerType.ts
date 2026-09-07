@@ -10,14 +10,14 @@ export const headerType = defineType({
     defineField({
       name: 'name',
       title: 'Name',
-      type: 'string',
+      type: 'localeString',
       description: 'Please use "Firstname Lastname" format',
       validation: (Rule) => Rule.required(),
     }),
     defineField({
       name: 'jobDescHeader',
       title: 'Job Desc Header',
-      type: 'string',
+      type: 'localeString',
       description: 'Please enter the Job Desc',
       validation: (Rule) => Rule.required(),
     }),

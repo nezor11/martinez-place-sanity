@@ -11,7 +11,7 @@ export const resumeType = defineType({
   fields: [
     defineField({
       name: 'title',
-      type: 'string',
+      type: 'localeString',
       validation: (Rule) => Rule.required(),
     }),
     defineField({
@@ -19,7 +19,7 @@ export const resumeType = defineType({
       title: 'Slug',
       type: 'slug',
       options: {
-        source: 'title',
+        source: 'title.en',
         maxLength: 100,
       },
     }),
@@ -52,4 +52,10 @@ export const resumeType = defineType({
       description: 'PDF for printing a physical CV',
     }),
   ],
+  preview: {
+    select: {
+      title: 'title.en',
+      subtitle: 'title.es',
+    },
+  },
 })

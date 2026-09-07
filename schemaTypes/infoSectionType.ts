@@ -15,12 +15,12 @@ export default defineType({
     defineField({
       name: 'titleSection',
       title: 'Title Section',
-      type: 'string',
+      type: 'localeString',
     }),
     defineField({
       name: 'subtitleSection',
       title: 'Subtitle Section',
-      type: 'text',
+      type: 'localeText',
     }),
     defineField({
       name: 'sections',
@@ -32,7 +32,7 @@ export default defineType({
   icon: FaList,
   preview: {
     select: {
-      title: 'titleSection',
+      title: 'titleSection.en',
     },
     prepare({title}) {
       return {
