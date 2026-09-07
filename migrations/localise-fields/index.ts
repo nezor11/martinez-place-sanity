@@ -28,7 +28,9 @@ export default defineMigration({
   title: 'Wrap translatable fields as localised objects with the English value',
   documentTypes: ['resume', 'contactDetail', 'sliders', 'slide'],
   migrate: {
-    object(node, path) {
+    // Patches returned from a node visitor are applied relative to that
+    // node, so the field name alone is the path.
+    object(node) {
       const type = typeof node._type === 'string' ? node._type : undefined
       const fields = type ? fieldsByType[type] : undefined
       if (!fields) return undefined
@@ -37,7 +39,7 @@ export default defineMigration({
         if (value === undefined || value === null || isLocalised(value)) {
           return []
         }
-        return [at([...path, field], set({en: value}))]
+        return [at([field], set({en: value}))]
       })
     },
   },
