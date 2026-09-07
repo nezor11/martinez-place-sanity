@@ -15,7 +15,7 @@ const bold = {_key: 'b2c9547d4f4d'}
 const fixes = {
   en: {
     plain: 'This project focused on ',
-    bold: 'creating a visually appealing and highly functional online store that reflects the brand's dedication to quality and craftsmanship',
+    bold: "creating a visually appealing and highly functional online store that reflects the brand's dedication to quality and craftsmanship",
   },
   es: {
     plain: 'El proyecto se centró en ',
