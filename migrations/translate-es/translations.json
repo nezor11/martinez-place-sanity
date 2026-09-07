@@ -1,0 +1,4534 @@
+[
+ {
+  "doc": "00f9e8f1-51ee-40b8-b64a-e14489f56154",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "37d145a0992a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d218f389d9450",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Desarrollo del juego web para móvil «Hungry Monster»"
+     },
+     {
+      "_key": "8671d53326c6",
+      "_type": "span",
+      "marks": [],
+      "text": ", creado por la agencia valenciana "
+     },
+     {
+      "_key": "c50f6f0e82e5",
+      "_type": "span",
+      "marks": [
+       "5fbd43cf2610"
+      ],
+      "text": "Maslow"
+     },
+     {
+      "_key": "1961c01c1b2f",
+      "_type": "span",
+      "marks": [],
+      "text": ", antes conocida como Mono Agency, en colaboración con la cadena de tiendas de golosinas Belros.\n\nEl juego, disponible gratis para Android y iPhone, es un caso de éxito entre dos empresas que se unieron gracias a este proyecto. "
+     },
+     {
+      "_key": "36cfc2923d7b",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Al principio la cadena solo encargó una web nueva y una tienda online"
+     },
+     {
+      "_key": "f4d4c7ae7c79",
+      "_type": "span",
+      "marks": [],
+      "text": ", pero la colaboración evolucionó hasta incluir el desarrollo del juego."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "5fbd43cf2610",
+      "_type": "link",
+      "href": "https://www.agenciamaslow.com/"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "9782e5eed6ab",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "0313d385d3210",
+      "_type": "span",
+      "marks": [],
+      "text": "«Hungry Monster» es un juego de plataformas en el que un monstruo tiene que alimentarse de las golosinas que recoge el protagonista a lo largo de varios mundos y niveles. El juego ofrece logros canjeables por dulces en las tiendas de la cadena y usa "
+     },
+     {
+      "_key": "5727b0c9594a",
+      "_type": "span",
+      "marks": [
+       "em"
+      ],
+      "text": "geolocalización "
+     },
+     {
+      "_key": "b903b37e7951",
+      "_type": "span",
+      "marks": [],
+      "text": "para desbloquear niveles cerca de esas tiendas, fomentando las visitas a los establecimientos.\n\nEn el desarrollo participaron varios desarrolladores y un diseñador adicional, dentro de una estrategia centrada en el marketing móvil."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "00f9e8f1-51ee-40b8-b64a-e14489f56154",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Juego Hungry Monsters"
+ },
+ {
+  "doc": "0229c1d3-2654-43af-81fb-c728447423ff",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "d4a0b91ef379",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ff72e84a42e80",
+      "_type": "span",
+      "marks": [],
+      "text": "Campaña de abonos de la temporada 2012/13 del Levante UD, titulada "
+     },
+     {
+      "_key": "863a5c8aed78",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "«Algo va al revés en el Ciutat de València"
+     },
+     {
+      "_key": "efcffe73a554",
+      "_type": "span",
+      "marks": [],
+      "text": "»."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cba09666c0a6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "17c6f542cc19",
+      "_type": "span",
+      "marks": [],
+      "text": "La estrategia de marketing destaca descuentos importantes e incluye el acceso a todas las competiciones en las que participa el club, como La Liga, la Copa del Rey y la Europa League.\n\nLa campaña pone el acento en el precio asequible, con el objetivo de atraer a más aficionados pese a la buena temporada anterior del equipo.\n\nTambién lanzamos un "
+     },
+     {
+      "_key": "4a27d38c5dbf",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "microsite con un minijuego para implicar a la afición"
+     },
+     {
+      "_key": "da0fdff9f04e",
+      "_type": "span",
+      "marks": [],
+      "text": ". Las acciones promocionales se extendieron a campañas externas en centros comerciales y a opciones online para conseguir el abono."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0229c1d3-2654-43af-81fb-c728447423ff",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Campaña de abonos de fútbol"
+ },
+ {
+  "doc": "06218611-55a0-4056-ab06-ff69484dc36e",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "9ed27d8ae0df",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2485b89596890",
+      "_type": "span",
+      "marks": [],
+      "text": "El desarrollo web para la Fundació Pasqual Maragall realizado por Ondho incluyó la creación de una web moderna y fácil de usar y la integración de funciones de comercio electrónico.\n\nEsto permite hacer donaciones online con fluidez y vender productos para apoyar la misión de la fundación.\n\nEl proyecto buscaba reforzar la presencia online de la fundación con información clara sobre su misión, su investigación y sus eventos, con elementos interactivos y una navegación sencilla."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "06218611-55a0-4056-ab06-ff69484dc36e",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Investigación para vencer al Alzheimer"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "43d590b7aff9"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "d45e48177729",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2e0e2dde8799",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollador, creador, diseñador y formador. "
+     },
+     {
+      "_key": "e19c4c3349cb1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Seguro y meticuloso"
+     },
+     {
+      "_key": "e19c4c3349cb2",
+      "_type": "span",
+      "marks": [],
+      "text": ", disfruto del trabajo en equipo y me esfuerzo por crear un entorno de trabajo positivo y productivo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "39708c9df769"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "04bc8e7f5412",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d2986ce85628",
+      "_type": "span",
+      "marks": [],
+      "text": "Aporto sólidas habilidades técnicas, con especialización en desarrollo front-end y experiencia en gestores de contenidos (CMS) como WordPress, "
+     },
+     {
+      "_key": "b47cf14e6fca",
+      "_type": "span",
+      "marks": [
+       "c10d784e833a"
+      ],
+      "text": "Umbraco"
+     },
+     {
+      "_key": "e577f8ff6ed3",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "90cb9159cd2e",
+      "_type": "span",
+      "marks": [
+       "2fc85c12089a"
+      ],
+      "text": "Sitecore"
+     },
+     {
+      "_key": "889d92ca6ac7",
+      "_type": "span",
+      "marks": [],
+      "text": ", Joomla, Prestashop y Magento. Mi dominio se extiende a herramientas front-end modernas y ágiles como Vue, "
+     },
+     {
+      "_key": "36430fe28814",
+      "_type": "span",
+      "marks": [
+       "c2beeb6b5aee"
+      ],
+      "text": "Nuxt"
+     },
+     {
+      "_key": "36c1dae56f9c",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "d517955b0ab1",
+      "_type": "span",
+      "marks": [
+       "54e87ae75d7e"
+      ],
+      "text": "Vite"
+     },
+     {
+      "_key": "4e297216e9dc",
+      "_type": "span",
+      "marks": [],
+      "text": ", React, Webpack, Gulp, Sass, "
+     },
+     {
+      "_key": "c45c7e8d1127",
+      "_type": "span",
+      "marks": [
+       "11630ffa60c3"
+      ],
+      "text": "PostCss"
+     },
+     {
+      "_key": "67ced272cf0b",
+      "_type": "span",
+      "marks": [],
+      "text": ", Less y Figma para el trabajo de diseño."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "c10d784e833a",
+      "_type": "link",
+      "href": "https://umbraco.com/"
+     },
+     {
+      "_key": "2fc85c12089a",
+      "_type": "link",
+      "href": "https://www.sitecore.com/"
+     },
+     {
+      "_key": "c2beeb6b5aee",
+      "_type": "link",
+      "href": "https://nuxt.com/"
+     },
+     {
+      "_key": "54e87ae75d7e",
+      "_type": "link",
+      "href": "https://vitejs.dev/"
+     },
+     {
+      "_key": "11630ffa60c3",
+      "_type": "link",
+      "href": "https://postcss.org/"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "abf6680afe82",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "82652376af3a",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "df0e5544edb6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "af3a493a0be6",
+      "_type": "span",
+      "marks": [],
+      "text": "Demuestro mis capacidades técnicas con un uso eficaz de las API y un buen conocimiento del entorno .NET y de Laravel, lo que refleja mi versatilidad y mi solvencia tanto en desarrollo web como en diseño gráfico."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "9778a82d31bb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "60afaf5d076a",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "251984222600",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "60e0e2d2341d",
+      "_type": "span",
+      "marks": [],
+      "text": "En conjunto, estas capacidades técnicas conforman un perfil completo y adaptable en los ámbitos del desarrollo y el diseño web."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "560642be30b7"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "b4a22df29fbb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c95fb7a5d3890",
+      "_type": "span",
+      "marks": [],
+      "text": "Actualmente quiero especializarme aún más en tecnologías relacionadas con JS, en particular Vue, donde "
+     },
+     {
+      "_key": "64dfa69a1f86",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "he acumulado experiencia en proyectos"
+     },
+     {
+      "_key": "6fb880b52057",
+      "_type": "span",
+      "marks": [],
+      "text": ", y React, donde pretendo profundizar en mis conocimientos."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "8c694e136012"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "ddcba395fa76",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2865d466c1d40",
+      "_type": "span",
+      "marks": [],
+      "text": "También me interesa adentrarme en el terreno de las pruebas automatizadas con herramientas como Cypress, Jest, Grafana y K6, todas basadas en JS, que complementan sin fricción los frameworks modernos de desarrollo web mencionados antes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "454693d6a2fb"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "c8de6dfe7dd3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "fb54fd12dd7c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Entre mis puntos fuertes destacan la resolución de problemas, una "
+     },
+     {
+      "_key": "552af0eb1b3f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "mentalidad orientada al negocio, el compromiso con el aprendizaje continuo"
+     },
+     {
+      "_key": "a48f8bb1067b",
+      "_type": "span",
+      "marks": [],
+      "text": ", la adaptación al cambio, así como la colaboración y el liderazgo. Estas competencias, unidas a mis capacidades técnicas, "
+     },
+     {
+      "_key": "61f8a3d387b3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "reflejan una perspectiva equilibrada y valiosa para entornos de trabajo dinámicos y colaborativos"
+     },
+     {
+      "_key": "ce950f71f40b",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "subtitleSection",
+   "es"
+  ],
+  "value": "<span>_Resolución de problemas orientada al negocio</span><br>\n<span>_Aprendizaje de equipos multidisciplinares en múltiples áreas</span><br>\n<span>_Gestión del cambio</span><br>\n<span>_Atención al detalle</span><br>\n<span>_Capacidad para aprender nuevos conceptos y herramientas</span><br>\n<span>_Early adopter</span><br>\n<span>_Pensamiento lateral</span><br>\n<span>_Integración de las soft skills en el trabajo diario</span>\n"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Perfil"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "3a183d9bdf64"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "928b1dc357f5",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cda47b259cc0",
+      "_type": "span",
+      "marks": [],
+      "text": "Trabajo con "
+     },
+     {
+      "_key": "2520af352dfe",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "API e integraciones"
+     },
+     {
+      "_key": "165b53e144f2",
+      "_type": "span",
+      "marks": [],
+      "text": " en entornos .NET (Umbraco, Sitecore) para la generación de vistas. Tengo un conocimiento profundo de "
+     },
+     {
+      "_key": "39c564fae3cf",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Vue y Nuxt"
+     },
+     {
+      "_key": "8bbef674aa0f",
+      "_type": "span",
+      "marks": [],
+      "text": " y experiencia trabajando con diseños en Figma. Además, he desarrollado tiendas online con "
+     },
+     {
+      "_key": "f31cce7569ac",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "React y Next.js"
+     },
+     {
+      "_key": "968672f48fb2",
+      "_type": "span",
+      "marks": [],
+      "text": ", centrándome en el rendimiento, el SEO y una experiencia de usuario optimizada en entornos de comercio electrónico."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "3a183d9bdf64"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "6749148a2a1f"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "4d09f2f54a8c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c66df4101bb60",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollo principalmente en "
+     },
+     {
+      "_key": "c66df4101bb61",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Wordpress"
+     },
+     {
+      "_key": "c66df4101bb62",
+      "_type": "span",
+      "marks": [],
+      "text": ", conociendo la parte "
+     },
+     {
+      "_key": "c66df4101bb63",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "moderna y ágil"
+     },
+     {
+      "_key": "c66df4101bb64",
+      "_type": "span",
+      "marks": [],
+      "text": " del frontend: compiladores, preprocesadores y postprocesadores. Gulp, webpack, sass, less. Proyectos con "
+     },
+     {
+      "_key": "063001e59672",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Laravel y Vue"
+     },
+     {
+      "_key": "700bbe053984",
+      "_type": "span",
+      "marks": [],
+      "text": ". Trabajo con diseños de Zeplin."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "6749148a2a1f"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "e49a2ef395f4"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "5f5a86f19945",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5bd695ec7b400",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollo de la parte front de proyectos en Wordpress y Prestashop. Colaboraciones con la agencia de publicidad "
+     },
+     {
+      "_key": "ae683c7178f6",
+      "_type": "span",
+      "marks": [
+       "d4c4aa766505"
+      ],
+      "text": "Agencia Maslow"
+     },
+     {
+      "_key": "835d393a4d8c",
+      "_type": "span",
+      "marks": [],
+      "text": ", que nos entregaba la propuesta creativa y nosotros la convertíamos en web."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "d4c4aa766505",
+      "_type": "link",
+      "href": "https://www.agenciamaslow.com/"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "e49a2ef395f4"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "7fd157b2c7599a2757103669bf970edf"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "9d379f0fb8df",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "0e106b8497980",
+      "_type": "span",
+      "marks": [],
+      "text": "Formador de HTML, animaciones CSS y Javascript, tanto en modalidad online como en "
+     },
+     {
+      "_key": "592f91918ddc",
+      "_type": "span",
+      "marks": [
+       "af97b42ae621"
+      ],
+      "text": "clases presenciales"
+     },
+     {
+      "_key": "71d8f427e8f7",
+      "_type": "span",
+      "marks": [],
+      "text": " en las instalaciones del periódico Las Provincias."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "af97b42ae621",
+      "_type": "link",
+      "href": "http://servicios.lasprovincias.es/documentos/TemarioHTML5CSS3.pdf"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "7fd157b2c7599a2757103669bf970edf"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Formador"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "50630f24d071"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "821a3ab6ee85",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c8ad24d054150",
+      "_type": "span",
+      "marks": [],
+      "text": "Gestión y creación de vistas en entornos Joomla para "
+     },
+     {
+      "_key": "c8ad24d054151",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "webs corporativas"
+     },
+     {
+      "_key": "c8ad24d054152",
+      "_type": "span",
+      "marks": [],
+      "text": " y Magento para comercio electrónico. También coordiné a dos becarios dentro del equipo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "50630f24d071"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end y diseñador gráfico"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "0cf506e27140"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "0da75f7647fc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "798595bbb04c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Formador en sistema de aula abierta de "
+     },
+     {
+      "_key": "798595bbb04c1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Photoshop"
+     },
+     {
+      "_key": "798595bbb04c2",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "798595bbb04c3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Illustrator"
+     },
+     {
+      "_key": "798595bbb04c4",
+      "_type": "span",
+      "marks": [],
+      "text": ", Html, Dreamweaver, hojas de estilo, Flash y Action Script 2.0."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "0cf506e27140"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Formador"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "a25dd6b5fbc9"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "df89d4fd9311",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5770a503b7fd0",
+      "_type": "span",
+      "marks": [],
+      "text": "Tareas de conceptualización, diseño e implementación de e-mails de marketing, microsites y blogs. "
+     },
+     {
+      "_key": "5770a503b7fd1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Técnicas SEO"
+     },
+     {
+      "_key": "5770a503b7fd2",
+      "_type": "span",
+      "marks": [],
+      "text": ", reputación online, comunicación interna, diseño de folletos, flyers, dípticos..."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "a25dd6b5fbc9"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Diseñador web"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Experiencia"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "827a1e28f34c"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "13ad484e8bde",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "f918f7cc9c860",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollar y/o adaptar aplicaciones informáticas basadas en sistemas informáticos y en las técnicas de análisis y programación más habituales, con el objetivo de automatizar distintos problemas de gestión empresarial."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "827a1e28f34c"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Programador de aplicaciones informáticas"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "86cfa0dc1c87"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "f7374caeff09",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "432800e8a12c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Centro de formación online especializado."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "86cfa0dc1c87"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Licenciatura en Comunicación Audiovisual"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "b7615ea1bf2e"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "1e6b1b52f8ad",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "6d1c2321087f0",
+      "_type": "span",
+      "marks": [],
+      "text": "Comunicación, diseño, publicidad."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "b7615ea1bf2e"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Programa de movilidad internacional"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "fe025c9009cf"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "b82ab0f36137",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b994c3ac76e90",
+      "_type": "span",
+      "marks": [],
+      "text": "Diseño gráfico digital, creación multimedia, comunicación interactiva."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "fe025c9009cf"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Primer ciclo de Comunicación Audiovisual"
+ },
+ {
+  "doc": "0d293976-cabd-4df2-a200-93716b615857",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Formación"
+ },
+ {
+  "doc": "0eef9475-bcb7-4a99-872f-c1df6bc7779d",
+  "path": [
+   "images",
+   {
+    "_key": "260c80ecdc88"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Buscador de errores de dispositivos"
+ },
+ {
+  "doc": "0eef9475-bcb7-4a99-872f-c1df6bc7779d",
+  "path": [
+   "images",
+   {
+    "_key": "e22e07a2df25"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Página de inicio"
+ },
+ {
+  "doc": "0eef9475-bcb7-4a99-872f-c1df6bc7779d",
+  "path": [
+   "images",
+   {
+    "_key": "b0dffe4db8bb"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Página de preguntas frecuentes"
+ },
+ {
+  "doc": "0eef9475-bcb7-4a99-872f-c1df6bc7779d",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "c3e6d404aecc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "7c2f249d3cd60",
+      "_type": "span",
+      "marks": [],
+      "text": "Baxi es una empresa especializada en soluciones de calefacción, climatización y agua caliente para viviendas y locales comerciales. Su web ofrece información sobre los distintos productos, solicitud de presupuestos y consulta de los mensajes de error de los diferentes aparatos.\n\nRecuerdo que en este proyecto hacía tareas de mantenimiento y creaba páginas nuevas sobre el CMS Sitecore.\n\nLa estructura de la página la daba el CMS y nosotros aplicábamos una capa encima con hojas de estilo y ficheros javascript para ampliar la funcionalidad."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "0eef9475-bcb7-4a99-872f-c1df6bc7779d",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Soluciones de calefacción y climatización"
+ },
+ {
+  "doc": "138e3761-25a4-4972-ab59-1b90ae933295",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "bc5ef6e3f93b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "62cfc0be10ac0",
+      "_type": "span",
+      "marks": [],
+      "text": "Durante mi etapa en Ondho tuve un papel clave en el desarrollo completo de la web de Naturisthar desde cero. Este"
+     },
+     {
+      "_key": "e3dfd8ed8167",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": " proyecto se centró en crear una presencia digital"
+     },
+     {
+      "_key": "45c0570ab830",
+      "_type": "span",
+      "marks": [],
+      "text": " que encarnara el compromiso de la marca con la belleza natural y holística."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "7dbafde7b6d1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "191e39ddba97",
+      "_type": "span",
+      "marks": [],
+      "text": "Mi trabajo consistió en diseñar una maquetación intuitiva y estéticamente cuidada, integrar funciones que mostraran la oferta de la marca y garantizar un rendimiento fluido."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "811929d6595d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "fb1117f122e6",
+      "_type": "span",
+      "marks": [],
+      "text": "También mantuve un diseño coherente, inspirado en la naturaleza, en todo el sitio."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "138e3761-25a4-4972-ab59-1b90ae933295",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Centro de fertilidad natural"
+ },
+ {
+  "doc": "1630bfd2-fbf5-4abd-854d-3f3bcfbcede5",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "c692e5147c54",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "7ddab653ab3e0",
+      "_type": "span",
+      "marks": [],
+      "text": "Como parte del equipo de Ondho, participé a fondo en el desarrollo de la plataforma de comercio electrónico de Conkansei, construida desde cero."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "8074d4092879",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2da2d0b8d2b8",
+      "_type": "span",
+      "marks": [],
+      "text": "El proyecto se centró en c"
+     },
+     {
+      "_key": "b2c9547d4f4d",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "rear una tienda online atractiva y muy funcional que reflejara la apuesta de la marca por la calidad y la artesanía"
+     },
+     {
+      "_key": "4f22af4c69c6",
+      "_type": "span",
+      "marks": [],
+      "text": ". Mi papel incluyó desarrollar una interfaz intuitiva, integrar una navegación fluida y asegurar que el sitio funcionara a la perfección."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "d6926e5d996e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "6685cda25c66",
+      "_type": "span",
+      "marks": [],
+      "text": "El proyecto también incluyó la implementación de animaciones atractivas para mejorar la experiencia de usuario."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "1630bfd2-fbf5-4abd-854d-3f3bcfbcede5",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Una experiencia de compra sin fricciones"
+ },
+ {
+  "doc": "3a1dad08-4ccb-4a90-bed9-4680282b3b3c",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "7850284b2f0e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "6f7265ecc99f0",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras trabajaba en Ondho colaboramos con Desigual en el diseño y la gestión de su "
+     },
+     {
+      "_key": "144b54515ef1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "email marketing global"
+     },
+     {
+      "_key": "0fcfe40f20ef",
+      "_type": "span",
+      "marks": [],
+      "text": ".\n\nCreamos newsletters modulares adaptables a distintos idiomas y versiones, lo que optimizó recursos y aceleró la producción. "
+     },
+     {
+      "_key": "2b86adb6d357",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "También desarrollamos plantillas HTML responsive con elementos personalizables"
+     },
+     {
+      "_key": "bcc55cdec011",
+      "_type": "span",
+      "marks": [],
+      "text": ", mejorando la velocidad de carga y la flexibilidad de las campañas."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "487d3ce0ec3f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "626d40b1fab1",
+      "_type": "span",
+      "marks": [],
+      "text": "Además, apoyamos a Desigual en la creación de banners para campañas de afiliación y redes sociales, manteniendo la coherencia gráfica de la marca."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "3a1dad08-4ccb-4a90-bed9-4680282b3b3c",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Maquetación de email marketing"
+ },
+ {
+  "doc": "3bf2326b-3309-4a71-a754-5bed0e1c0de5",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "1ff44e42292c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "1788c605dc250",
+      "_type": "span",
+      "marks": [],
+      "text": "SelfPackaging.es es una tienda online especializada en cajas de cartón personalizables y soluciones de packaging. Ofrecen una gran variedad de cajas para distintos usos: pastelería, bodas, joyería, envíos y regalos. La web destaca por permitir personalizar las cajas en tamaño, color y diseño. Apuestan por la sostenibilidad con materiales reciclables y prácticas respetuosas con el medio ambiente. Además, ofrecen atención al cliente personalizada y envío a tarifa plana.\n\nYo desarrollaba la parte front-end de las plantillas Smarty de PrestaShop, además de implementar distintos requisitos para adaptar la lógica de negocio a la tienda online por defecto."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "3bf2326b-3309-4a71-a754-5bed0e1c0de5",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Packaging ecológico personalizable"
+ },
+ {
+  "doc": "3d753874-5fe1-4289-b49b-765c757b6506",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "2eff8bfcafaf",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "e1bc2689889a0",
+      "_type": "span",
+      "marks": [],
+      "text": "La estrategia de email marketing para Pronovias, ejecutada por el equipo de Ondho, consistió en rediseñar todos los correos del recorrido del cliente como plantillas editables en HTML y Outlook."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "3b2cad3648e8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d5432712d352",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "62e23d01b3df",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "58c41f451783",
+      "_type": "span",
+      "marks": [],
+      "text": "Esto permite a cada tienda personalizar fácilmente los correos para cada cita, garantizando una relación cercana con las clientas. El enfoque prioriza la flexibilidad y la personalización para responder a las necesidades de la marca en distintos países y puntos de venta."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "3d753874-5fe1-4289-b49b-765c757b6506",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Estrategia de email marketing"
+ },
+ {
+  "doc": "4204f32f-2915-4472-b5af-d5ec0a1b52b1",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "7838f9463a74",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ed0e69f0477e0",
+      "_type": "span",
+      "marks": [],
+      "text": "Tuve un papel decisivo en el desarrollo de la web de Grandes Vinos desde cero, centrado en crear una experiencia digital rica que reflejara la herencia de la marca y su amplia colección de vinos."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "d03f08c9932b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "872749214250",
+      "_type": "span",
+      "marks": [],
+      "text": "El proyecto incluyó el diseño de una estructura de navegación fácil de usar y la implementación de numerosas animaciones para reforzar el atractivo visual."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "bd3f79dc46a9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5556e8cf394b",
+      "_type": "span",
+      "marks": [],
+      "text": "Mi trabajo con Ondho en este proyecto consiguió que la web no solo rindiera de forma óptima, sino que conectara con los amantes del vino a través de elementos dinámicos e interactivos."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "4204f32f-2915-4472-b5af-d5ec0a1b52b1",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "El legado de la viticultura"
+ },
+ {
+  "doc": "45b0fb93-6f44-405c-aadb-21a2b3bd80d6",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Internet de fibra"
+ },
+ {
+  "doc": "4a87bd78-50cf-4a34-aa0e-91bc6b715d12",
+  "path": [
+   "images",
+   {
+    "_key": "4dcec3f68500"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Portada de Stradivarius"
+ },
+ {
+  "doc": "4a87bd78-50cf-4a34-aa0e-91bc6b715d12",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "f15dc4a4ae0b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "1e5ada0b1de7",
+      "_type": "span",
+      "marks": [],
+      "text": "Stradivarius, reconocida marca de moda del grupo Inditex, se asoció con Ondho para reforzar su presencia online. El objetivo era desarrollar una plataforma de comercio electrónico dinámica y fácil de actualizar, capaz de seguir el ritmo de las tendencias de moda y de atender a un público global."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "87317db355f1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "63ee59dd94ba",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "54f730232007",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "f7c9ab045659",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "• Ecommerce dinámico"
+     },
+     {
+      "_key": "dadec8fd7dbe",
+      "_type": "span",
+      "marks": [],
+      "text": ": creación de una tienda online fácil de actualizar y adaptable a las tendencias de moda, que cambian muy rápido."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "aacc07825777",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "19f954171a0e",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "• Diseño modular"
+     },
+     {
+      "_key": "ec95cf31a065",
+      "_type": "span",
+      "marks": [],
+      "text": ": desarrollo de un diseño web flexible y personalizable para facilitar cambios rápidos."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "f6389bc72f2b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "a46d5ab84a59",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "• Email marketing"
+     },
+     {
+      "_key": "2a531a1a5857",
+      "_type": "span",
+      "marks": [],
+      "text": ": diseño de newsletters eficaces para aumentar el tráfico y las ventas online."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "0a1d807bc893",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "3313f2599dd00",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "• Optimización multilingüe"
+     },
+     {
+      "_key": "3313f2599dd01",
+      "_type": "span",
+      "marks": [],
+      "text": ": implementación de una estrategia adaptada a múltiples idiomas y países."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "80ee0c1189ee",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "56469fd690b2",
+      "_type": "span",
+      "marks": [],
+      "text": "\nEl enfoque estratégico de Ondho dio como resultado un diseño web flexible y modular y campañas de email marketing eficaces, todo optimizado para distintos idiomas y regiones. Esta colaboración reforzó la presencia digital de Stradivarius, impulsando el tráfico y las ventas en varios mercados."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "4a87bd78-50cf-4a34-aa0e-91bc6b715d12",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Actualización de portadas y email marketing"
+ },
+ {
+  "doc": "5358ac37-45ac-46c8-adcb-1362e5df8a8d",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "13fe84325050",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d6e55bbf8b680",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras formaba parte del equipo de Ondho, colaboramos con la Barcelona Macula Foundation para crear una web intuitiva y accesible, centrada en la experiencia de usuario de personas con problemas de visión, con tipografía grande y alto contraste.\n\nTambién desarrollamos una tienda online para vender las fotografías del Dr. Monés y financiar proyectos. Además, participé en el mantenimiento de la web con WordPress y en la implementación de tecnologías frontend, manteniendo el sitio actualizado y operativo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5358ac37-45ac-46c8-adcb-1362e5df8a8d",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Una web centrada en el usuario"
+ },
+ {
+  "doc": "5358ac37-45ac-46c8-adcb-1362e5df8a8d",
+  "path": [
+   "slideTitle",
+   "es"
+  ],
+  "value": "Fundación Barcelona Mácula"
+ },
+ {
+  "doc": "5441f96b-9f1d-4d4a-88fc-b6295623790f",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "9a993bb33831",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "27bf08a59b2c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras formaba parte del equipo de Ondho, fui responsable del mantenimiento de la web de Arrels Fundació, que apoya a personas en situación de sinhogarismo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "f33eb01a98ca",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "f0cf6db8e6d9",
+      "_type": "span",
+      "marks": [],
+      "text": "Mi función consistía en garantizar "
+     },
+     {
+      "_key": "fafecbe633b3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "el funcionamiento continuo de la web, actualizar contenidos y optimizar el rendimiento para mantenerla alineada con la misión de la fundación"
+     },
+     {
+      "_key": "f697e3c2f70d",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "3c7f9612fee0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "90eba4639783",
+      "_type": "span",
+      "marks": [],
+      "text": "Trabajé en refinar la experiencia de usuario, aplicar las actualizaciones necesarias y mantener un diseño que comunicara con eficacia los valores y la labor de la fundación."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5441f96b-9f1d-4d4a-88fc-b6295623790f",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Plataforma de sensibilización y colaboración ciudadana"
+ },
+ {
+  "doc": "576e3085-ed7f-4fd9-a522-8e2a6f393733",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "833aba3679a2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "859c96dd57d80",
+      "_type": "span",
+      "marks": [],
+      "text": "Grünenthal Campus es una plataforma de aprendizaje interactivo para profesionales sanitarios, centrada en el tratamiento del dolor. La plataforma también acoge eventos en directo como webinars y congresos, con una mediateca para el acceso bajo demanda. Además, ofrece materiales educativos para pacientes con consejos prácticos para gestionar el dolor en el día a día.\n\nAquí recuerdo que usábamos un sistema nuevo para integrar Sitecore en una aplicación "
+     },
+     {
+      "_key": "df437b5db440",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "React "
+     },
+     {
+      "_key": "4abffd78f58d",
+      "_type": "span",
+      "marks": [],
+      "text": "con "
+     },
+     {
+      "_key": "fb0217d2a44d",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "NextJS "
+     },
+     {
+      "_key": "702498db80b1",
+      "_type": "span",
+      "marks": [],
+      "text": "siguiendo el método headless. Para ello tuvimos que usar "
+     },
+     {
+      "_key": "815c4ad4ae6b",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Typescript "
+     },
+     {
+      "_key": "243fe94fbb0f",
+      "_type": "span",
+      "marks": [],
+      "text": "para que los campos coincidieran y también "
+     },
+     {
+      "_key": "aa895944fb74",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "GraphQL "
+     },
+     {
+      "_key": "16e310bb17b3",
+      "_type": "span",
+      "marks": [],
+      "text": "para adaptar lo que devuelve Sitecore a la aplicación que estábamos desarrollando."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "576e3085-ed7f-4fd9-a522-8e2a6f393733",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Formación médica"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "43d590b7aff9"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "d45e48177729",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2e0e2dde8799",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollador, creador, diseñador y formador. "
+     },
+     {
+      "_key": "e19c4c3349cb1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Seguro y meticuloso"
+     },
+     {
+      "_key": "e19c4c3349cb2",
+      "_type": "span",
+      "marks": [],
+      "text": ", disfruto del trabajo en equipo y me esfuerzo por crear un entorno de trabajo positivo y productivo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "39708c9df769"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "04bc8e7f5412",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d2986ce85628",
+      "_type": "span",
+      "marks": [],
+      "text": "Aporto sólidas habilidades técnicas, con especialización en desarrollo front-end y experiencia en gestores de contenidos (CMS) como WordPress, "
+     },
+     {
+      "_key": "b47cf14e6fca",
+      "_type": "span",
+      "marks": [
+       "c10d784e833a"
+      ],
+      "text": "Umbraco"
+     },
+     {
+      "_key": "e577f8ff6ed3",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "90cb9159cd2e",
+      "_type": "span",
+      "marks": [
+       "2fc85c12089a"
+      ],
+      "text": "Sitecore"
+     },
+     {
+      "_key": "889d92ca6ac7",
+      "_type": "span",
+      "marks": [],
+      "text": ", Joomla, Prestashop y Magento. Mi dominio se extiende a herramientas front-end modernas y ágiles como Vue, "
+     },
+     {
+      "_key": "36430fe28814",
+      "_type": "span",
+      "marks": [
+       "c2beeb6b5aee"
+      ],
+      "text": "Nuxt"
+     },
+     {
+      "_key": "36c1dae56f9c",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "d517955b0ab1",
+      "_type": "span",
+      "marks": [
+       "54e87ae75d7e"
+      ],
+      "text": "Vite"
+     },
+     {
+      "_key": "4e297216e9dc",
+      "_type": "span",
+      "marks": [],
+      "text": ", React, Webpack, Gulp, Sass, "
+     },
+     {
+      "_key": "c45c7e8d1127",
+      "_type": "span",
+      "marks": [
+       "11630ffa60c3"
+      ],
+      "text": "PostCss"
+     },
+     {
+      "_key": "67ced272cf0b",
+      "_type": "span",
+      "marks": [],
+      "text": ", Less y Figma para el trabajo de diseño."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "c10d784e833a",
+      "_type": "link",
+      "href": "https://umbraco.com/"
+     },
+     {
+      "_key": "2fc85c12089a",
+      "_type": "link",
+      "href": "https://www.sitecore.com/"
+     },
+     {
+      "_key": "c2beeb6b5aee",
+      "_type": "link",
+      "href": "https://nuxt.com/"
+     },
+     {
+      "_key": "54e87ae75d7e",
+      "_type": "link",
+      "href": "https://vitejs.dev/"
+     },
+     {
+      "_key": "11630ffa60c3",
+      "_type": "link",
+      "href": "https://postcss.org/"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "abf6680afe82",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "82652376af3a",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "df0e5544edb6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "af3a493a0be6",
+      "_type": "span",
+      "marks": [],
+      "text": "Demuestro mis capacidades técnicas con un uso eficaz de las API y un buen conocimiento del entorno .NET y de Laravel, lo que refleja mi versatilidad y mi solvencia tanto en desarrollo web como en diseño gráfico."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "9778a82d31bb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "60afaf5d076a",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "251984222600",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "60e0e2d2341d",
+      "_type": "span",
+      "marks": [],
+      "text": "En conjunto, estas capacidades técnicas conforman un perfil completo y adaptable en los ámbitos del desarrollo y el diseño web."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "560642be30b7"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "b4a22df29fbb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c95fb7a5d3890",
+      "_type": "span",
+      "marks": [],
+      "text": "Actualmente quiero especializarme aún más en tecnologías relacionadas con JS, en particular Vue, donde "
+     },
+     {
+      "_key": "64dfa69a1f86",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "he acumulado experiencia en proyectos"
+     },
+     {
+      "_key": "6fb880b52057",
+      "_type": "span",
+      "marks": [],
+      "text": ", y React, donde pretendo profundizar en mis conocimientos."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "8c694e136012"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "ddcba395fa76",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2865d466c1d40",
+      "_type": "span",
+      "marks": [],
+      "text": "También me interesa adentrarme en el terreno de las pruebas automatizadas con herramientas como Cypress, Jest, Grafana y K6, todas basadas en JS, que complementan sin fricción los frameworks modernos de desarrollo web mencionados antes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "sections",
+   {
+    "_key": "454693d6a2fb"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "c8de6dfe7dd3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "fb54fd12dd7c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Entre mis puntos fuertes destacan la resolución de problemas, una "
+     },
+     {
+      "_key": "552af0eb1b3f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "mentalidad orientada al negocio, el compromiso con el aprendizaje continuo"
+     },
+     {
+      "_key": "a48f8bb1067b",
+      "_type": "span",
+      "marks": [],
+      "text": ", la adaptación al cambio, así como la colaboración y el liderazgo. Estas competencias, unidas a mis capacidades técnicas, "
+     },
+     {
+      "_key": "61f8a3d387b3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "reflejan una perspectiva equilibrada y valiosa para entornos de trabajo dinámicos y colaborativos"
+     },
+     {
+      "_key": "ce950f71f40b",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "subtitleSection",
+   "es"
+  ],
+  "value": "<span>_Resolución de problemas orientada al negocio</span><br>\n<span>_Aprendizaje de equipos multidisciplinares en múltiples áreas</span><br>\n<span>_Gestión del cambio</span><br>\n<span>_Atención al detalle</span><br>\n<span>_Capacidad para aprender nuevos conceptos y herramientas</span><br>\n<span>_Early adopter</span><br>\n<span>_Pensamiento lateral</span><br>\n<span>_Integración de las soft skills en el trabajo diario</span>\n"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "495ba074a997"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Perfil"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "3a183d9bdf64"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "928b1dc357f5",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cda47b259cc0",
+      "_type": "span",
+      "marks": [],
+      "text": "Trabajo con "
+     },
+     {
+      "_key": "2520af352dfe",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "API e integraciones"
+     },
+     {
+      "_key": "165b53e144f2",
+      "_type": "span",
+      "marks": [],
+      "text": " en entornos .NET (Umbraco, Sitecore) para la generación de vistas. Tengo un conocimiento profundo de "
+     },
+     {
+      "_key": "39c564fae3cf",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Vue y Nuxt"
+     },
+     {
+      "_key": "8bbef674aa0f",
+      "_type": "span",
+      "marks": [],
+      "text": " y experiencia trabajando con diseños en Figma. Además, he desarrollado tiendas online con "
+     },
+     {
+      "_key": "f31cce7569ac",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "React y Next.js"
+     },
+     {
+      "_key": "968672f48fb2",
+      "_type": "span",
+      "marks": [],
+      "text": ", centrándome en el rendimiento, el SEO y una experiencia de usuario optimizada en entornos de comercio electrónico."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "3a183d9bdf64"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "6749148a2a1f"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "4d09f2f54a8c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c66df4101bb60",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollo principalmente en "
+     },
+     {
+      "_key": "c66df4101bb61",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Wordpress"
+     },
+     {
+      "_key": "c66df4101bb62",
+      "_type": "span",
+      "marks": [],
+      "text": ", conociendo la parte "
+     },
+     {
+      "_key": "c66df4101bb63",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "moderna y ágil"
+     },
+     {
+      "_key": "c66df4101bb64",
+      "_type": "span",
+      "marks": [],
+      "text": " del frontend: compiladores, preprocesadores y postprocesadores. Gulp, webpack, sass, less. Proyectos con "
+     },
+     {
+      "_key": "063001e59672",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Laravel y Vue"
+     },
+     {
+      "_key": "700bbe053984",
+      "_type": "span",
+      "marks": [],
+      "text": ". Trabajo con diseños de Zeplin."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "6749148a2a1f"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "e49a2ef395f4"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "5f5a86f19945",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5bd695ec7b400",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollo de la parte front de proyectos en Wordpress y Prestashop. Colaboraciones con la agencia de publicidad "
+     },
+     {
+      "_key": "ae683c7178f6",
+      "_type": "span",
+      "marks": [
+       "d4c4aa766505"
+      ],
+      "text": "Agencia Maslow"
+     },
+     {
+      "_key": "835d393a4d8c",
+      "_type": "span",
+      "marks": [],
+      "text": ", que nos entregaba la propuesta creativa y nosotros la convertíamos en web."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "d4c4aa766505",
+      "_type": "link",
+      "href": "https://www.agenciamaslow.com/"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "e49a2ef395f4"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "7fd157b2c7599a2757103669bf970edf"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "9d379f0fb8df",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "0e106b8497980",
+      "_type": "span",
+      "marks": [],
+      "text": "Formador de HTML, animaciones CSS y Javascript, tanto en modalidad online como en "
+     },
+     {
+      "_key": "592f91918ddc",
+      "_type": "span",
+      "marks": [
+       "af97b42ae621"
+      ],
+      "text": "clases presenciales"
+     },
+     {
+      "_key": "71d8f427e8f7",
+      "_type": "span",
+      "marks": [],
+      "text": " en las instalaciones del periódico Las Provincias."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "af97b42ae621",
+      "_type": "link",
+      "href": "http://servicios.lasprovincias.es/documentos/TemarioHTML5CSS3.pdf"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "7fd157b2c7599a2757103669bf970edf"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Formador"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "50630f24d071"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "821a3ab6ee85",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c8ad24d054150",
+      "_type": "span",
+      "marks": [],
+      "text": "Gestión y creación de vistas en entornos Joomla para "
+     },
+     {
+      "_key": "c8ad24d054151",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "webs corporativas"
+     },
+     {
+      "_key": "c8ad24d054152",
+      "_type": "span",
+      "marks": [],
+      "text": " y Magento para comercio electrónico. También coordiné a dos becarios dentro del equipo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "50630f24d071"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Desarrollador front-end y diseñador gráfico"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "0cf506e27140"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "0da75f7647fc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "798595bbb04c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Formador en sistema de aula abierta de "
+     },
+     {
+      "_key": "798595bbb04c1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Photoshop"
+     },
+     {
+      "_key": "798595bbb04c2",
+      "_type": "span",
+      "marks": [],
+      "text": ", "
+     },
+     {
+      "_key": "798595bbb04c3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Illustrator"
+     },
+     {
+      "_key": "798595bbb04c4",
+      "_type": "span",
+      "marks": [],
+      "text": ", Html, Dreamweaver, hojas de estilo, Flash y Action Script 2.0."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "0cf506e27140"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Formador"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "a25dd6b5fbc9"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "df89d4fd9311",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5770a503b7fd0",
+      "_type": "span",
+      "marks": [],
+      "text": "Tareas de conceptualización, diseño e implementación de e-mails de marketing, microsites y blogs. "
+     },
+     {
+      "_key": "5770a503b7fd1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Técnicas SEO"
+     },
+     {
+      "_key": "5770a503b7fd2",
+      "_type": "span",
+      "marks": [],
+      "text": ", reputación online, comunicación interna, diseño de folletos, flyers, dípticos..."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "sections",
+   {
+    "_key": "a25dd6b5fbc9"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Diseñador web"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "190fd8732957"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Experiencia"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "827a1e28f34c"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "13ad484e8bde",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "f918f7cc9c860",
+      "_type": "span",
+      "marks": [],
+      "text": "Desarrollar y/o adaptar aplicaciones informáticas basadas en sistemas informáticos y en las técnicas de análisis y programación más habituales, con el objetivo de automatizar distintos problemas de gestión empresarial."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "827a1e28f34c"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Programador de aplicaciones informáticas"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "86cfa0dc1c87"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "f7374caeff09",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "432800e8a12c0",
+      "_type": "span",
+      "marks": [],
+      "text": "Centro de formación online especializado."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "86cfa0dc1c87"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Licenciatura en Comunicación Audiovisual"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "b7615ea1bf2e"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "1e6b1b52f8ad",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "6d1c2321087f0",
+      "_type": "span",
+      "marks": [],
+      "text": "Comunicación, diseño, publicidad."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "b7615ea1bf2e"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Programa de movilidad internacional"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "fe025c9009cf"
+   },
+   "jobDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "b82ab0f36137",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b994c3ac76e90",
+      "_type": "span",
+      "marks": [],
+      "text": "Diseño gráfico digital, creación multimedia, comunicación interactiva."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "sections",
+   {
+    "_key": "fe025c9009cf"
+   },
+   "jobTitle",
+   "es"
+  ],
+  "value": "Primer ciclo de Comunicación Audiovisual"
+ },
+ {
+  "doc": "5cd8ab7f-d791-49ea-a436-5c42af02ad8d",
+  "path": [
+   "pageBuilder",
+   {
+    "_key": "db69d14c0f88"
+   },
+   "titleSection",
+   "es"
+  ],
+  "value": "Formación"
+ },
+ {
+  "doc": "6c235142-59b5-4721-82bc-340f9d8711cb",
+  "path": [
+   "images",
+   {
+    "_key": "57655c819d2b"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Decathlon"
+ },
+ {
+  "doc": "6c235142-59b5-4721-82bc-340f9d8711cb",
+  "path": [
+   "name",
+   "es"
+  ],
+  "value": "Decathlon"
+ },
+ {
+  "doc": "6c235142-59b5-4721-82bc-340f9d8711cb",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "3d1ab0a1db7d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "bfc2c5871c1e0",
+      "_type": "span",
+      "marks": [],
+      "text": "En Ondho contribuí al desarrollo de la plataforma de Decathlon Club, un proyecto orientado a ofrecer una experiencia totalmente personalizable a los aficionados al deporte. La plataforma se diseñó para que los usuarios pudieran configurar una amplia gama de equipamiento y material deportivo, con infinitas posibilidades de personalización.\n\nAdemás, incluía un calendario interactivo de eventos y herramientas para seguir el progreso personal. Mi papel se centró en que la plataforma ofreciera una experiencia fluida y atractiva, optimizada para el rendimiento y la versatilidad."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "6c235142-59b5-4721-82bc-340f9d8711cb",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Personaliza tu deporte"
+ },
+ {
+  "doc": "6c235142-59b5-4721-82bc-340f9d8711cb",
+  "path": [
+   "slideTitle",
+   "es"
+  ],
+  "value": "Decathlon"
+ },
+ {
+  "doc": "6d6a877e-c4fa-4205-bbda-d170b032be65",
+  "path": [
+   "images",
+   {
+    "_key": "01dd667538e9"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Portada de Faborit"
+ },
+ {
+  "doc": "6d6a877e-c4fa-4205-bbda-d170b032be65",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "8ec94d4c5b48",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "c49e4d9771560",
+      "_type": "span",
+      "marks": [],
+      "text": "El desarrollo de la web de Faborit Fresh Bar por parte de Ondho siguió una estrategia de renovación por fases centrada en la usabilidad y los objetivos de negocio."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cf97933a3746",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "7413538fcf71",
+      "_type": "span",
+      "marks": [],
+      "text": "Usamos Growth Driven Design para que el sitio pudiera crecer con la marca. Entre sus funciones clave están la localización sencilla de establecimientos, un blog informativo sobre alimentación saludable y una presentación clara de los productos nuevos y las novedades de la marca.\n\nTambién creamos una aplicación web con Laravel y Vue en la que los empleados podían reportar incidencias en los establecimientos y contactar directamente con el responsable, para agilizar el flujo de incidencias."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "7b292276e018",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "37fd2fbb4687",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "58413f364bcb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "735b6bf6752d",
+      "_type": "span",
+      "marks": [],
+      "text": "El diseño de la web está en línea con la apuesta de Faborit por un estilo de vida saludable y sostenible."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "6d6a877e-c4fa-4205-bbda-d170b032be65",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Vida saludable con un diseño digital vibrante"
+ },
+ {
+  "doc": "6e41ab19-fbfe-48c1-a757-8e97087d8d33",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "23917ff04ddc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "776e964afa000",
+      "_type": "span",
+      "marks": [],
+      "text": "La plataforma Zencargo ofrece visibilidad y seguimiento de pedidos, con seguimiento de envíos en tiempo real.\n\nEn esta web colaboré con "
+     },
+     {
+      "_key": "172427a54725",
+      "_type": "span",
+      "marks": [
+       "a921761bd4c8"
+      ],
+      "text": "la oficina internacional de Novicell en Londres "
+     },
+     {
+      "_key": "82c5a0a39541",
+      "_type": "span",
+      "marks": [],
+      "text": "y fue una solución en Wordpress en la que usamos "
+     },
+     {
+      "_key": "60089baad7e9",
+      "_type": "span",
+      "marks": [
+       "90b5423acaed"
+      ],
+      "text": "Laravel Mix"
+     },
+     {
+      "_key": "a77bd2544170",
+      "_type": "span",
+      "marks": [],
+      "text": " y "
+     },
+     {
+      "_key": "e25c51e81cf4",
+      "_type": "span",
+      "marks": [
+       "b67390c51827"
+      ],
+      "text": "Webpack"
+     },
+     {
+      "_key": "597a5599c67e",
+      "_type": "span",
+      "marks": [],
+      "text": " para el back y el front. Para la parte del editor de Wordpress usábamos Gutenberg y "
+     },
+     {
+      "_key": "347ef4686a8d",
+      "_type": "span",
+      "marks": [
+       "6a80cd168680"
+      ],
+      "text": "ACF Blocks"
+     },
+     {
+      "_key": "b3cac7e4743c",
+      "_type": "span",
+      "marks": [],
+      "text": ". En cuanto a CSS usé "
+     },
+     {
+      "_key": "612414a41565",
+      "_type": "span",
+      "marks": [
+       "c503cb29edcc"
+      ],
+      "text": "Tailwind"
+     },
+     {
+      "_key": "bea57f7f2ccf",
+      "_type": "span",
+      "marks": [],
+      "text": " y "
+     },
+     {
+      "_key": "cc5472e8d64e",
+      "_type": "span",
+      "marks": [
+       "9ac4155f9c96"
+      ],
+      "text": "Sass"
+     },
+     {
+      "_key": "ced53ed88606",
+      "_type": "span",
+      "marks": [],
+      "text": " y, por último, Javascript organizado por módulos.\n"
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "a921761bd4c8",
+      "_type": "link",
+      "href": "https://www.novicell.com/uk/"
+     },
+     {
+      "_key": "90b5423acaed",
+      "_type": "link",
+      "href": "https://laravel-mix.com/"
+     },
+     {
+      "_key": "b67390c51827",
+      "_type": "link",
+      "href": "https://webpack.js.org/"
+     },
+     {
+      "_key": "6a80cd168680",
+      "_type": "link",
+      "href": "https://www.advancedcustomfields.com/resources/blocks/"
+     },
+     {
+      "_key": "c503cb29edcc",
+      "_type": "link",
+      "href": "https://tailwindcss.com/"
+     },
+     {
+      "_key": "9ac4155f9c96",
+      "_type": "link",
+      "href": "https://sass-lang.com/"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "6e41ab19-fbfe-48c1-a757-8e97087d8d33",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Soluciones para la cadena de suministro"
+ },
+ {
+  "doc": "7dacefa0-9c82-44d3-b773-48ecfdb16a23",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "daf328ee698b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5c48da976e5d0",
+      "_type": "span",
+      "marks": [],
+      "text": "Constance Hotels & Resorts ofrece alojamientos de lujo en destinos espectaculares del océano Índico, como Mauricio, Maldivas, Seychelles, Madagascar y Rodrigues.\n\nEn este proyecto tuve mi primera experiencia con .NET y Umbraco. También me ayudó a darme cuenta de que el entorno .NET no está entre mis favoritos y de que, con lo que sé hoy, resulta más difícil de desarrollar que otras tecnologías."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "05ce2e2a3991",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "3694c70a2d78",
+      "_type": "span",
+      "marks": [],
+      "text": "También aprendí mucho de JavaScript, y fue un proyecto complejo porque había una cantidad importante de código heredado. A lo largo de ocho años trabajaron en él muchos desarrolladores y en algún momento convivieron dos sistemas."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "0db8e45d0b66",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "4ae8c1b8fc1b",
+      "_type": "span",
+      "marks": [],
+      "text": "\nActualmente hay implantada una web desarrollada por otro proveedor."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "7dacefa0-9c82-44d3-b773-48ecfdb16a23",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Hoteles, resorts y lodges"
+ },
+ {
+  "doc": "7e4eb0a6-42ca-4ce2-855f-d2700b75c735",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "bcf621b5813b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "5409f1b9790b0",
+      "_type": "span",
+      "marks": [],
+      "text": "Durante mi etapa en Ondho participé activamente en el mantenimiento de la web de Humboldt Society, una plataforma dedicada a experiencias de viaje exclusivas.\n\nMis responsabilidades incluían "
+     },
+     {
+      "_key": "6489b0c0aa69",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "garantizar el funcionamiento del sitio y optimizar la experiencia de usuario"
+     },
+     {
+      "_key": "3667455e31e5",
+      "_type": "span",
+      "marks": [],
+      "text": " con un diseño sofisticado y minimalista."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "d4e49c146d65",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "3979e296c3a3",
+      "_type": "span",
+      "marks": [],
+      "text": "El sitio contaba con una estructura modular y un área personalizada para socios, que ayudé a mantener actualizada y plenamente operativa, contribuyendo a una presencia digital fluida y refinada."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "7e4eb0a6-42ca-4ce2-855f-d2700b75c735",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Descubre el mundo con sofisticación"
+ },
+ {
+  "doc": "90afde28-a739-40c4-a2bd-4321e87b2350",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "6914ca05699a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "addc32955e250",
+      "_type": "span",
+      "marks": [],
+      "text": "El desarrollo web de Revlon Professional por parte de Novicell buscaba reforzar la presencia online de la marca y su rendimiento en marketing y ventas.\n\nRediseñamos la web para crear una plataforma escalable y visualmente atractiva que da soporte a las interacciones sociales y aloja todos los materiales de marketing. "
+     },
+     {
+      "_key": "e2da298c2ac3",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Este hub facilita la gestión de contenidos y garantiza una experiencia de usuario responsive en todos los dispositivos"
+     },
+     {
+      "_key": "10342ea7e25a",
+      "_type": "span",
+      "marks": [],
+      "text": " e idiomas, lo que acelera el proceso de aprobación y encaja con la visión innovadora de Revlon."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "90afde28-a739-40c4-a2bd-4321e87b2350",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Catálogo de productos capilares"
+ },
+ {
+  "doc": "9d42f6c8-1822-4b7b-af5a-c1f59fccd5fb",
+  "path": [
+   "images",
+   {
+    "_key": "31800accaabd"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Portada de Adamo"
+ },
+ {
+  "doc": "9d42f6c8-1822-4b7b-af5a-c1f59fccd5fb",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "c987a601f955",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d2481dc066530",
+      "_type": "span",
+      "marks": [],
+      "text": "Adamo ofrece internet de fibra óptica de alta velocidad, móvil, fijo y televisión. Cuentan con distintos paquetes, incluidos planes combinados de fibra y móvil con hasta 1.000 Mbps y datos ilimitados.\n\nEn este proyecto recuerdo trabajar en la componentización de distintas secciones de la web usando la API del CMS headless de Umbraco. Para ello usamos "
+     },
+     {
+      "_key": "18f7b4e6ee33",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Vue junto con Nuxt"
+     },
+     {
+      "_key": "993437f7f097",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "9d42f6c8-1822-4b7b-af5a-c1f59fccd5fb",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Internet de fibra"
+ },
+ {
+  "doc": "9ffc109a-638b-4bf5-9c74-031de8d4ab72",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "85b2a9cbbafe",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "65ea1ec5a5cf",
+      "_type": "span",
+      "marks": [],
+      "text": "La web cuenta con un "
+     },
+     {
+      "_key": "3d3094429107",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "simulador de hipotecas, recursos educativos, un glosario de términos hipotecarios y testimonios de clientes"
+     },
+     {
+      "_key": "cfc74c0f4790",
+      "_type": "span",
+      "marks": [],
+      "text": ". Este mismo diseño front se usó en otras webs del grupo, como la de "
+     },
+     {
+      "_key": "467457673090",
+      "_type": "span",
+      "marks": [
+       "99d082553361"
+      ],
+      "text": "Unión Crédito Inmobiliario"
+     },
+     {
+      "_key": "b4cc516b574c",
+      "_type": "span",
+      "marks": [],
+      "text": "\n\nEste proyecto fue uno de los primeros en los que empecé en Novicell, y aquí aprendí "
+     },
+     {
+      "_key": "6f7172bdc954",
+      "_type": "span",
+      "marks": [
+       "84cd4d73fbcb"
+      ],
+      "text": "Fractal"
+     },
+     {
+      "_key": "01c8e26f3c94",
+      "_type": "span",
+      "marks": [],
+      "text": ", una herramienta para construir, documentar e integrar librerías de componentes y guías de estilo. Ofrece flexibilidad al permitir cualquier lenguaje de plantillas y herramientas de build, y se integra sin problemas en proyectos existentes.\n\nEl proyecto sigue manteniéndose internamente y puede consultarse en "
+     },
+     {
+      "_key": "197eb98bb6da",
+      "_type": "span",
+      "marks": [
+       "aafe36c0e2b4"
+      ],
+      "text": "su repositorio"
+     },
+     {
+      "_key": "a4dcee31e07b",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "84cd4d73fbcb",
+      "_type": "link",
+      "href": "https://fractal.build/"
+     },
+     {
+      "_key": "aafe36c0e2b4",
+      "_type": "link",
+      "href": "https://ecoweb-front.azurewebsites.net/"
+     },
+     {
+      "_key": "84cd4d73fbcb",
+      "_type": "link",
+      "href": "https://fractal.build/"
+     },
+     {
+      "_key": "aafe36c0e2b4",
+      "_type": "link",
+      "href": "https://ecoweb-front.azurewebsites.net/"
+     },
+     {
+      "_key": "99d082553361",
+      "_type": "link",
+      "href": "https://uci.com/es/"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "4b48e90b95f4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "35f2e4bbb23f",
+      "_type": "span",
+      "marks": [],
+      "text": ""
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "9ffc109a-638b-4bf5-9c74-031de8d4ab72",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Simulador de hipotecas y recursos"
+ },
+ {
+  "doc": "a13a9489-81eb-4d29-91b5-1e7f89f87d20",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "d7d4f2824cfe",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2ac8827c32020",
+      "_type": "span",
+      "marks": [],
+      "text": "Web Tenerife es el portal turístico oficial de Tenerife, con información completa sobre los atractivos, actividades, alojamientos y eventos de la isla.\n\nEn este proyecto, en el que empecé haciendo mantenimiento, avancé mucho en mi conocimiento de JavaScript: gracias a la forma estructurada de trabajar de mi compañero "
+     },
+     {
+      "_key": "e8bde2b4135f",
+      "_type": "span",
+      "marks": [
+       "a3b4a2c35960"
+      ],
+      "text": "Àlex Dominguez"
+     },
+     {
+      "_key": "4b100e20dc1d",
+      "_type": "span",
+      "marks": [],
+      "text": " aprendí mucho sobre cómo trabajar con módulos, funciones y clases, y también a optimizar la web para que tuviera un rendimiento excelente.\n\n"
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "a3b4a2c35960",
+      "_type": "link",
+      "href": "https://www.linkedin.com/in/devalexdom/"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "a13a9489-81eb-4d29-91b5-1e7f89f87d20",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Web oficial de promoción turística de Tenerife"
+ },
+ {
+  "doc": "a13a9489-81eb-4d29-91b5-1e7f89f87d20",
+  "path": [
+   "slideTitle",
+   "es"
+  ],
+  "value": "Web de Tenerife"
+ },
+ {
+  "doc": "a9a233a6-0d3b-44af-938f-8d1352d565a6",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "b7bbe1c82c6a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "46a20caff6090",
+      "_type": "span",
+      "marks": [],
+      "text": "Recuerdo que en este proyecto empecé a trabajar con "
+     },
+     {
+      "_key": "b5847efdd513",
+      "_type": "span",
+      "marks": [
+       "2e68425fd954"
+      ],
+      "text": "Nuxt"
+     },
+     {
+      "_key": "c30675e5dd60",
+      "_type": "span",
+      "marks": [],
+      "text": "; tenía conocimientos de Vue, pero el reto fue entrar en "
+     },
+     {
+      "_key": "90c0d34cbfba",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "el mundo headless"
+     },
+     {
+      "_key": "faddfc555600",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "2e68425fd954",
+      "_type": "link",
+      "href": "https://nuxt.com/"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "477080bf3954",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "f544655999950",
+      "_type": "span",
+      "marks": [],
+      "text": "Los datos los proporcionaba un CMS Umbraco y la aplicación consumía el JSON que servían los endpoints del CMS."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "2d0835dabf2c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "bcd534aa60180",
+      "_type": "span",
+      "marks": [],
+      "text": "Como era una "
+     },
+     {
+      "_key": "c7d4edcd9902",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "colaboración internacional con el equipo noruego"
+     },
+     {
+      "_key": "8eab1f5d9d45",
+      "_type": "span",
+      "marks": [],
+      "text": ", ellos se encargaban del back y en Barcelona hacíamos el front. Recuerdo que tuvimos que crear simuladores de páginas con un "
+     },
+     {
+      "_key": "dd3df0994c62",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "servidor en Node que nos servía la estructura JSON"
+     },
+     {
+      "_key": "f8d7d47f427a",
+      "_type": "span",
+      "marks": [],
+      "text": ", porque la parte de back iba algo retrasada en el desarrollo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "a9a233a6-0d3b-44af-938f-8d1352d565a6",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Revista literaria noruega"
+ },
+ {
+  "doc": "b04bc5ab-c495-4460-9e30-29306c2f17bb",
+  "path": [
+   "images",
+   {
+    "_key": "152eb9e16903"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Portada de Comodynes"
+ },
+ {
+  "doc": "b04bc5ab-c495-4460-9e30-29306c2f17bb",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "5181a780db75",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "0660e741d7f70",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras formaba parte del equipo de Ondho, tuve un papel importante en el desarrollo completo de la web de Comodynes desde cero. El proyecto consistió en crear una plataforma de comercio electrónico moderna e intuitiva que reflejara el enfoque innovador de la marca en cosmética."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "eff667563d48",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "8d9116988483",
+      "_type": "span",
+      "marks": [],
+      "text": "Mis responsabilidades incluían diseñar la estructura del sitio, implementar una navegación fácil de usar y asegurar que la experiencia digital encajara a la perfección con la identidad de marca de Comodynes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "d4c534719376",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "2c6cce529f38",
+      "_type": "span",
+      "marks": [],
+      "text": "Además, me centré en optimizar el rendimiento del sitio y en mantener su estética cuidada durante todo el proceso de desarrollo."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "b04bc5ab-c495-4460-9e30-29306c2f17bb",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Cosmética urbana"
+ },
+ {
+  "doc": "c7759c59-1303-427b-83e7-fbd3f7411914",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "af39542a1b4f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "74179246f8da",
+      "_type": "span",
+      "marks": [],
+      "text": "AGM Abogados es un despacho que ofrece una amplia gama de servicios jurídicos para empresas y particulares. Sus áreas de práctica incluyen derecho mercantil, fiscal, laboral, litigación, inmobiliario y de extranjería. El despacho apuesta por la atención personalizada y por soluciones integrales adaptadas a las necesidades de cada cliente.\n\nEn este proyecto mi papel fue el de desarrollador full-stack, y sigo manteniéndolo. Trabajé muy de cerca con el equipo de diseño para que la implementación fuera lo más sencilla y rápida posible, usando "
+     },
+     {
+      "_key": "03005c19e2e9",
+      "_type": "span",
+      "marks": [
+       "e34115686afa"
+      ],
+      "text": "el desarrollo moderno con Sage para WordPress"
+     },
+     {
+      "_key": "d5c2219dab79",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "e34115686afa",
+      "_type": "link",
+      "href": "https://roots.io/sage/"
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "c7759c59-1303-427b-83e7-fbd3f7411914",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Expertos en derecho"
+ },
+ {
+  "doc": "c8074add-2420-4d37-9b5e-27b5b7d03303",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "95ef40768207",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "0ca79cee767f0",
+      "_type": "span",
+      "marks": [],
+      "text": "La web Medical Beyond es una plataforma educativa dirigida a profesionales sanitarios. Ofrece recursos como webinars, vídeos, cursos online, pódcasts y una e-Academy.\n\nLos contenidos abarcan distintas especialidades médicas: tratamiento del dolor, cuidados paliativos, problemas respiratorios y del tracto urinario, gastroenterología, hepatología, salud femenina y masculina, vértigo, sistema vascular y alergias. El sitio está pensado para dar un apoyo completo y formación continua a los profesionales médicos.\n\nAquí recuerdo que trabajaba con Fractal para que los desarrolladores de Sitecore pudieran tomar el código y llevarlo a las vistas de Sitecore."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "c8074add-2420-4d37-9b5e-27b5b7d03303",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Plataforma educativa"
+ },
+ {
+  "doc": "d84cbbdb-034e-40f0-ac3c-6453971b08c2",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "da44975e8d0c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "975a962a7f240",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras formaba parte del equipo de Ondho, contribuí al diseño y desarrollo de la web de Bohell, una marca de herramientas de bricolaje. "
+     },
+     {
+      "_key": "7c8f772643d1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "El proyecto se centró en crear una plataforma de comercio electrónico con WooCommerce sobre WordPress"
+     },
+     {
+      "_key": "840e7d2e1c70",
+      "_type": "span",
+      "marks": [],
+      "text": ", que facilita la gestión y la presentación de los productos."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "22cdacf0a603",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cdd10ee89510",
+      "_type": "span",
+      "marks": [],
+      "text": "También produjimos vídeos tutoriales que muestran la sencillez y la eficacia de las herramientas. El sitio se integró con Amazon para una compra fluida e incluyó funciones de atención al cliente y asistencia técnica."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "d84cbbdb-034e-40f0-ac3c-6453971b08c2",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Herramientas para los amantes del bricolaje"
+ },
+ {
+  "doc": "e7f036e6-3903-491c-ae39-46e531d523c0",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "5199abb20c43",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "64b3643d602d0",
+      "_type": "span",
+      "marks": [],
+      "text": "JSCamp es una conferencia internacional de dos días centrada en JavaScript. Ofrece charlas y talleres a cargo de expertos de renombre mundial en desarrollo web, sobre las últimas tendencias y tecnologías de JavaScript. El evento está dirigido a desarrolladores que quieren profundizar en sus conocimientos y habilidades en este lenguaje.\n\nAquí recuerdo que fue un "
+     },
+     {
+      "_key": "fdf56dfc02ce",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "proceso bastante duro"
+     },
+     {
+      "_key": "b180727cbad4",
+      "_type": "span",
+      "marks": [],
+      "text": ", porque era una tecnología que no conocía: un sistema basado en ficheros "
+     },
+     {
+      "_key": "5819a7aec8ce",
+      "_type": "span",
+      "marks": [
+       "em"
+      ],
+      "text": ".md"
+     },
+     {
+      "_key": "db9d41d921de",
+      "_type": "span",
+      "marks": [],
+      "text": " para el contenido y muchas librerías de animación en JavaScript.\n\nAdemás, la gestión con el cliente no fue nada fácil; fue un buen proyecto de aprendizaje y me hizo ver de verdad lo que quería y hacia dónde orientar mi carrera."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "e7f036e6-3903-491c-ae39-46e531d523c0",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Todo sobre JavaScript"
+ },
+ {
+  "doc": "eba9c1a3-7512-4cd5-b1ca-fecc47417b14",
+  "path": [
+   "images",
+   {
+    "_key": "3da03544e051"
+   },
+   "alt",
+   "es"
+  ],
+  "value": "Portada de Dreamplace"
+ },
+ {
+  "doc": "eba9c1a3-7512-4cd5-b1ca-fecc47417b14",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "535c830d4da2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "561b4cd657fc0",
+      "_type": "span",
+      "marks": [],
+      "text": "La estrategia de email marketing para Dreamplace Hotels & Resorts, a cargo del equipo de Ondho, se centró en crear campañas personalizadas y multilingües adaptadas a distintos segmentos de clientes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "14f5cb98d5b4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "384c1a15c345",
+      "_type": "span",
+      "marks": [],
+      "text": "El objetivo era promocionar ofertas especiales y mantener la implicación de los usuarios. La estrategia también hizo hincapié en la coherencia del mensaje de marca y del atractivo visual en todas las comunicaciones, para mejorar la experiencia y la fidelidad de los clientes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "eba9c1a3-7512-4cd5-b1ca-fecc47417b14",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Email marketing para hoteles y resorts"
+ },
+ {
+  "doc": "f4da50c0-e466-4081-be48-e2a745f64e6d",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "3671fb7c6582",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "d2359deef9c80",
+      "_type": "span",
+      "marks": [],
+      "text": "El Rincón del Cuidador es una plataforma dedicada a apoyar a quienes cuidan de personas dependientes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "e6c8a5f10134",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "eb626eb87e10",
+      "_type": "span",
+      "marks": [],
+      "text": "Ofrece recursos sobre distintos aspectos del cuidado, como la demencia, la incontinencia, la movilidad, la nutrición y la salud mental. El sitio también incluye herramientas y ejercicios para reducir el estrés y mejorar el bienestar físico y mental de los cuidadores."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ba584eb8146f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "8a927eb53e25",
+      "_type": "span",
+      "marks": [],
+      "text": "Además, ofrece información sobre farmacias especializadas y fomenta una comunidad de apoyo para los cuidadores."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "f4da50c0-e466-4081-be48-e2a745f64e6d",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Recursos de Hartmann para cuidadores"
+ },
+ {
+  "doc": "fe5e77ef-bdd8-465b-be18-a7d7aa1e5a38",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "5d3af4db13ee",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cc39ac65b9ac0",
+      "_type": "span",
+      "marks": [],
+      "text": "En este proyecto me propuse aprender React y, para ello, pensé que sería buena idea montar un buen sistema de diseño que luego pudiera usar para crear la aplicación desde la que estás leyendo estas líneas.\n\nCreé secciones y páginas de ejemplo para que, a la hora de consumir los datos, fuera lo más sencillo posible. Lo conseguí con ayuda de la IA y aplicando lo que iba aprendiendo en otros proyectos en los que después usé React.\n\nPara representar la información me apoyé en Sanity, que también usa React para extender un CMS a medida y fácil de actualizar."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "fe5e77ef-bdd8-465b-be18-a7d7aa1e5a38",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Sistema de diseño"
+ },
+ {
+  "doc": "fe5e77ef-bdd8-465b-be18-a7d7aa1e5a38",
+  "path": [
+   "slideTitle",
+   "es"
+  ],
+  "value": "Storybook de Nezor"
+ },
+ {
+  "doc": "ff50818d-c116-4ba3-ad6e-c6575ffce9b8",
+  "path": [
+   "slideDesc",
+   "es"
+  ],
+  "value": [
+   {
+    "_key": "19d90355a791",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "11bd434fbaa10",
+      "_type": "span",
+      "marks": [],
+      "text": "Mientras formaba parte del equipo de Ondho, colaboramos con Finanzarel en el rediseño de su web, centrado en mejorar la usabilidad y la experiencia de usuario."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "8e01b3ee135a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "6af553f1740c",
+      "_type": "span",
+      "marks": [],
+      "text": "El proyecto "
+     },
+     {
+      "_key": "ca1988df71d9",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "incluyó la implementación de estrategias de inbound y email marketing"
+     },
+     {
+      "_key": "e416fa277a38",
+      "_type": "span",
+      "marks": [],
+      "text": " para atraer y convertir leads. Contribuí a optimizar el sitio con llamadas a la acción claras y un diseño visual que transmitiera confianza y modernidad."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   }
+  ]
+ },
+ {
+  "doc": "ff50818d-c116-4ba3-ad6e-c6575ffce9b8",
+  "path": [
+   "slideSummary",
+   "es"
+  ],
+  "value": "Redefiniendo la experiencia fintech"
+ }
+]
