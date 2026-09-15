@@ -1,11 +1,10 @@
-import sanityClient from '@sanity/client'
-import {Transaction} from '@sanity/client'
+import {createClient, type Transaction} from '@sanity/client'
 
-const client = sanityClient({
+const client = createClient({
   projectId: '6zr8au58',
   dataset: 'production',
-  token:
-    'skrg8balIw8EbPIQ1MPvDu95h4p8cd0RBbbvQBQKLXXMB1FPMU5mxpPlkRoG0WIbP4NAme9wV4wOuZheRcXpfmYULuu4Hg1lrFaBpcCulN6J6J3o429IUoJLWnGhwAuqJ2ca4QrLTAkeRpyyx2IokAnZH6aHl2uE3EUd7QcZYgcQM5u33exE', // Asegúrate de que este token tenga permisos para borrar documentos.
+  // Write token from the environment; never commit one to this public repo.
+  token: process.env.SANITY_WRITE_TOKEN,
   apiVersion: '2022-03-07', // Usa una fecha reciente para asegurarte de que usas la última API.
   useCdn: false,
 })
