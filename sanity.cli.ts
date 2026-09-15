@@ -6,6 +6,7 @@ export default defineCliConfig({
     projectId: '6zr8au58',
     dataset: 'production',
   },
+  studioHost: 'cv-resume',
   server: {
     hostname: 'localhost',
     port: 3333,
