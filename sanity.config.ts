@@ -1,4 +1,3 @@
-import {googleMapsInput} from '@sanity/google-maps-input'
 import {visionTool} from '@sanity/vision'
 import {defineConfig} from 'sanity'
 import {media, mediaAssetSource} from 'sanity-plugin-media'
@@ -15,7 +14,6 @@ export default defineConfig({
   plugins: [
     structureTool(),
     visionTool(),
-    googleMapsInput({apiKey: 'AIzaSyAonIv-ghR1EfbyhlksRITt886sp4t_DWU'}),
     media(),
   ],
 
