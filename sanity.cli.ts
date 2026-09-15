@@ -7,6 +7,9 @@ export default defineCliConfig({
     dataset: 'production',
   },
   studioHost: 'cv-resume',
+  deployment: {
+    appId: '53fedc2094e40623ee02347c',
+  },
   server: {
     hostname: 'localhost',
     port: 3333,
