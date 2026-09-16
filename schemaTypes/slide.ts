@@ -66,10 +66,24 @@ export default defineType({
     defineField({
       name: 'slideImage',
       title: 'Slide Image',
+      description:
+        'Card image, exactly 300×350 px: the card takes its height from the image, so other sizes stretch it.',
       type: 'image',
       options: {
         hotspot: true,
       },
+      validation: (Rule) =>
+        Rule.custom((value) => {
+          // Sanity encodes the dimensions in the asset id: image-<hash>-<w>x<h>-<ext>
+          const ref = (value as {asset?: {_ref?: string}} | undefined)?.asset?._ref
+          const match = ref ? /-(\d+)x(\d+)-/.exec(ref) : null
+          if (!match) return true
+          const [, width, height] = match
+          if (width !== '300' || height !== '350') {
+            return `Card images must be 300×350 px; this one is ${width}×${height}.`
+          }
+          return true
+        }),
       fields: [
         {
           name: 'alt',
@@ -138,6 +152,7 @@ export default defineType({
       name: 'images',
       type: 'array',
       title: 'Slide Images',
+      description: 'Popup gallery. Landscape images around 1440×900 px look best.',
       of: [
         {
           name: 'image',
