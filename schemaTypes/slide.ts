@@ -1,6 +1,10 @@
 import {FaStickyNote as icon} from 'react-icons/fa'
 import {defineField, defineType} from 'sanity'
 
+/** Card images on the site: one width, three heights the layout is built for. */
+const CARD_IMAGE_WIDTH = 300
+const CARD_IMAGE_HEIGHTS = [350, 300, 200]
+
 export default defineType({
   title: 'Slide',
   name: 'slide',
@@ -67,7 +71,7 @@ export default defineType({
       name: 'slideImage',
       title: 'Slide Image',
       description:
-        'Card image, exactly 300×350 px: the card takes its height from the image, so other sizes stretch it.',
+        'Card image, 300 px wide and 350, 300 or 200 px tall. The card takes its height from the image, so pick the height that suits the project; any other size is rejected.',
       type: 'image',
       options: {
         hotspot: true,
@@ -79,8 +83,8 @@ export default defineType({
           const match = ref ? /-(\d+)x(\d+)-/.exec(ref) : null
           if (!match) return true
           const [, width, height] = match
-          if (width !== '300' || height !== '350') {
-            return `Card images must be 300×350 px; this one is ${width}×${height}.`
+          if (width !== String(CARD_IMAGE_WIDTH) || !CARD_IMAGE_HEIGHTS.includes(Number(height))) {
+            return `Card images must be ${CARD_IMAGE_WIDTH} px wide and ${CARD_IMAGE_HEIGHTS.join(', ')} px tall; this one is ${width}×${height}.`
           }
           return true
         }),
