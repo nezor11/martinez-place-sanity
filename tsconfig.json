@@ -7,8 +7,9 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
-    "module": "CommonJS", // Cambiado de "esnext" a "CommonJS" para compatibilidad con Node.js
-    "moduleResolution": "node",
+    "module": "nodenext", // Node.js: sin "type": "module" en package.json, tsc emite CommonJS
+    "moduleResolution": "nodenext",
+    "types": ["node"], // TypeScript 6 ya no incluye @types/* automáticamente
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
