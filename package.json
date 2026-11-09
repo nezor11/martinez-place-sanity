@@ -17,21 +17,21 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/client": "^8.6.1",
-    "@sanity/vision": "^6.13.2",
+    "@sanity/client": "^8.14.1",
+    "@sanity/vision": "^6.22.0",
     "react": "^19.2.2",
     "react-dom": "^19.2.2",
     "react-icons": "^5.7.0",
     "react-is": "^19.2.2",
     "sanity": "^6.13.2",
-    "sanity-plugin-media": "^6.1.8",
+    "sanity-plugin-media": "^6.6.2",
     "styled-components": "^6.1.15"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^7.0.0",
-    "@types/node": "^26.5.1",
+    "@types/node": "^26.6.6",
     "@types/react": "^19.2.2",
-    "eslint": "^10.0.0",
+    "eslint": "^10.14.0",
     "prettier": "^3.0.2",
     "typescript": "^6.0.3"
   },
